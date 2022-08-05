@@ -9,21 +9,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "XXXXXXXXX",
+    "title": "",
     "section": "",
-    "text": "I am the scientific coordinator at the Data Science Research Network at the University of Vienna.\nI previously worked on the Adaptive Experimentation team at Facebook Core Data Science in New York.\nMy research focuses on the intersection of machine learning and causal inference. I work a lot on experimental design and I think hard about how experimentation can be better and more efficient. I’m also interested in better applying the machinery of machine learning to observational causal inference.\nI’m most interested in methodological research useful for the study of social phenomena."
+    "text": "Research Interests WORK IN PROGRESS\n\nPoverty, Inequality, and Cognition\nI am the XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.\nI previouslyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.\nMy research focuses on XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXX.\n\n\n\n\n\n\n Victor Auger  \n PhD Student    LAPSCO (UCA/CNRS)    Université Clermont Auvergne"
   },
   {
     "objectID": "posts/intro_quarto/index.html",
     "href": "posts/intro_quarto/index.html",
-    "title": "XXXXXXX",
+    "title": "",
     "section": "",
     "text": "Reusehttps://creativecommons.org/licenses/by/4.0/CitationBibTeX citation:@online{auger,\n  author = {Victor Auger},\n  url = {https://VictorAuger.github.io/quarto-va-blog//posts/intro_quarto},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nVictor Auger. n.d. https://VictorAuger.github.io/quarto-va-blog//posts/intro_quarto."
   },
   {
     "objectID": "posts/Writting for a wider audience/index.html",
     "href": "posts/Writting for a wider audience/index.html",
-    "title": "XXXXXXX",
+    "title": "",
     "section": "",
     "text": "Reusehttps://creativecommons.org/licenses/by/4.0/CitationBibTeX citation:@online{auger,\n  author = {Victor Auger},\n  url = {https://VictorAuger.github.io/quarto-va-blog//posts/Writting for a wider audience},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nVictor Auger. n.d. https://VictorAuger.github.io/quarto-va-blog//posts/Writting\nfor a wider audience."
   }
