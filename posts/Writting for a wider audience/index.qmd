@@ -1,0 +1,12 @@
+---
+title: "Introduction to Quarto blogging"
+subtitle: "How to use Quarto as a blogging tool : a beginner journey "
+date: "2022-08-01"
+categories: [introduction]
+
+
+---
+
+In this blog post I am going to talk about scientific outreach 
+
+

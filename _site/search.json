@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Notes from a doctoral journey",
+    "section": "",
+    "text": "I love\nI am intersting in\nI hate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVictor Auger\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVictor Auger\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/intro_quarto/index.html",
+    "href": "posts/intro_quarto/index.html",
+    "title": "quarto-va-blog",
+    "section": "",
+    "text": "Reusehttps://creativecommons.org/licenses/by/4.0/CitationBibTeX citation:@online{auger,\n  author = {Victor Auger},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nVictor Auger. n.d."
+  },
+  {
+    "objectID": "posts/Writting for a wider audience/index.html",
+    "href": "posts/Writting for a wider audience/index.html",
+    "title": "quarto-va-blog",
+    "section": "",
+    "text": "Reusehttps://creativecommons.org/licenses/by/4.0/CitationBibTeX citation:@online{auger,\n  author = {Victor Auger},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nVictor Auger. n.d."
+  }
+]
