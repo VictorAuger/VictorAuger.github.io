@@ -3,35 +3,22 @@ project:
   output-dir: _site
 
 website:
-  title: "XXXXXXX"
-  description: "Personal website of XXXXXXXX"
-  site-url: XXXXXXXX
-  repo-url: XXXXXXXX
-  open-graph: true
-  favicon: favicon.png
-  twitter-card: 
-    creator: "XXXXX"
-    site: "XXXXXX"
+  title: ""
+  site-url: https://victorauger.github.io/
+  twitter-card:
     card-style: "summary_large_image"
   navbar:
-    background: dark
-    foreground: light
+    background: light
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-      - href: research.qmd
-      - href: software.qmd
-      - href: blog.qmd
+      - Victor Auger
+      - Home
+      - Publications.qmd
+      - Research projects.qmd
+      - Blog.qmd
+      - Contact.qmd
 
 format:
   html:
     theme: journal
     css: styles.css
-    toc: true
-    toc-depth: 4
-    toc-title: "Contents"
-    html-math-method: katex
-    include-in-header:
-      - includes.html
-    highlight-style: tango
+    toc: false

@@ -1,40 +1,85 @@
 ---
-title: "XXXXXXXXX"
-description: "Methods in Causal Inference, Data Science and Social Science"
+title: ""
+description: ""
 page-layout: full
 image: /social-card.jpg
 resources:
     - "social-card.jpg"
+format:
+  html:
+    css: styles.css
 ---
 
-::: {.column-page-inset}
-::: {.column-page-inset-left}
-I am the scientific coordinator at the Data Science Research Network at the University of Vienna.
+<br/>
+<br/>
 
-I previously worked on the Adaptive Experimentation team at Facebook Core Data Science in New York.
+:::: {.columns}
 
-My research focuses on the intersection of machine learning and causal inference. I work a lot on experimental design and I think hard about how experimentation can be better and more efficient. I’m also interested in better applying the machinery of machine learning to observational causal inference.
-
-I’m most interested in methodological research useful for the study of social phenomena.
+::: {.column width="25%"}
+![](photo_id3.jpg){.rounded}
 :::
 
-<div class="column-margin column-container">
-![](headshot.jpg){.rounded}
-</div>
+::: {.column width="7%"}
+
 :::
 
-{{< pagebreak >}}
+::: {.column width="68%"}
+### Research Interests        WORK IN PROGRESS
 
-::: {.column-page-inset .text-center}
+#### Poverty, Inequality, and Cognition
+
+I am the XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+
+I previouslyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+
+My research focuses on XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX.
+
+:::
+::::
+
+:::: {.columns}
+
+::: {.column width="25%" .text-center}
+
+<span style="color:grey;font-weight:800;font-size:25px">
+    Victor Auger
+</span>
+<br/>
+
+<span style="color:black;font-weight:800;font-size:18px">
+    PhD Student
+</span>
+<br/>
+<span style="color:black;font-weight:800;font-size:18px">
+    [LAPSCO (UCA/CNRS)](https://www.lapsco.fr)
+</span>
+<br/>
+<span style="color:black;font-weight:800;font-size:18px">
+    [Université Clermont Auvergne](https://www.uca.fr/)<br/>
+</span>
+<br/>
+
+
 ```{=html}
-<a class="btn btn-outline-dark", href="https://twitter.com/DrewDim" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="https://twitter.com/ViictorOG" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-twitter" role='img' aria-label='Twitter'></i>
 </a>
-<a class="btn btn-outline-dark", href="https://github.com/ddimmery" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="https://github.com/VictorAuger" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-github" role='img' aria-label='Github'></i>
 </a>
-<a class="btn btn-outline-dark", href="mailto:pddimmery@gmail.com" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="mailto:victor.auger.ac@gmail.com" target="_blank" rel="noopener noreferrer">
     <i class="ai bi-envelope" role='img' aria-label='email'></i>
 </a>
 ```
+
 :::
+
+::: {.column width="60%"}
+:::
+
+::::
+
+{{< pagebreak >}}
+
